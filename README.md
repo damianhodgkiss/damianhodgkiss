@@ -1,4 +1,10 @@
-## Hi there 👋
+## 📫 How to reach me: ...
+
+Website - https://damianhodgkiss.com
+Twitter/X - https://x.com/damianhodgkiss
+LinkedIn - https://www.linkedin.com/in/damianhodgkiss/
+YouTube - https://www.linkedin.com/in/damianhodgkiss/
+Instagram - https://www.instagram.com/damianhodgkiss/
 
 <!--
 **damianhodgkiss/damianhodgkiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
